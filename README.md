@@ -21,4 +21,5 @@
 - [리눅스 서버 시간 확인](linux/display-server-date.md)
 - [리눅스 서버 시간 타임 서버에 동기화](linux/synchronize-server-date.md)
 - [파일 권한 변경](linux/change-permission.md)
+- [파일 행 수 세기](linux/count-lines.md)
 - [현재 사용자 패스워드 변경](linux/change-password.md)
