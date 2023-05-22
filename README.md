@@ -31,3 +31,4 @@
 - [유저 생성](mongoDB/create-user.md)
 - [접속 DB 변경](mongoDB/switch-database.md)
 - [컬렉션 목록 출력](mongoDB/display-collection-list.md)
+- [확장 검색](mongoDB/aggregate-documents.md)
