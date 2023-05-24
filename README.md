@@ -6,8 +6,8 @@
 ### 목차
 * [Docker](#docker)
 * [Linux](#linux)
-* [MongoDB](#mongoDB)
-* [PostgreSQL](#postgreSQL)
+* [mongodb](#mongodb)
+* [postgresql](#postgresql)
 
 ---
 
@@ -26,13 +26,13 @@
 - [파일 행 수 세기](linux/count-lines.md)
 - [현재 사용자 패스워드 변경](linux/change-password.md)
 
-### MongoDB
-- [검색](mongoDB/find-documents.md)
-- [도커로 몽고DB 시작하기](mongoDB/start-mongoDB-using-docker.md)
-- [유저 생성](mongoDB/create-user.md)
-- [접속 DB 변경](mongoDB/switch-database.md)
-- [컬렉션 목록 출력](mongoDB/display-collection-list.md)
-- [확장 검색](mongoDB/aggregate-documents.md)
+### mongodb
+- [검색](mongodb/find-documents.md)
+- [도커로 몽고DB 시작하기](mongodb/start-mongodb-using-docker.md)
+- [유저 생성](mongodb/create-user.md)
+- [접속 DB 변경](mongodb/switch-database.md)
+- [컬렉션 목록 출력](mongodb/display-collection-list.md)
+- [확장 검색](mongodb/aggregate-documents.md)
 
-### PostgreSQL
-- [도커로 PostgreSQL 시작하기](postgreSQL/start-postgreSQL-using-docker.md)
+### postgresql
+- [postgresql client 설치](postgresql/install-postgresql-client.md)
