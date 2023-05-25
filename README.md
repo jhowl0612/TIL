@@ -37,3 +37,4 @@
 ### postgresql
 - [postgresql client 설치](postgresql/install-postgresql-client.md)
 - [도커로 postgresql 시작하기](postgresql/start-postgresql-using-docker.md)
+- [테이블 덤프](postgresql/dump-table.md)
