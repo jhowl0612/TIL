@@ -22,6 +22,7 @@
 
 ### Elasticsearch
 - [데이터 입력](elasticsearch/create-document.md)
+- [인덱스 매핑](elasticsearch/mapping-explicit.md)
 
 ### Linux
 - [리눅스 서버 시간 확인](linux/display-server-date.md)
