@@ -70,3 +70,9 @@ PUT covid19-state
   }
 }
 ```
+
+
+인덱스 매핑 확인 (pretty)
+```
+GET /kibana_sample_data_ecommerce/_mapping?pretty
+```
