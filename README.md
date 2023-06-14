@@ -21,6 +21,7 @@
 - [특정 사용자 sudo 없이 docker 사용 설정](docker/add-docker-group.md)
 
 ### Elasticsearch
+- [데이터 검색](elasticsearch/search-document.md)
 - [데이터 입력](elasticsearch/create-document.md)
 - [인덱스 매핑](elasticsearch/mapping-explicit.md)
 
