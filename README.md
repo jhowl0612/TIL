@@ -41,6 +41,7 @@
 - [확장 검색](mongodb/aggregate-documents.md)
 
 ### PostgreSQL
+- [CSV 데이터 테이블에 삽입](postgresql/import-csv.md)
 - [PostGIS 공간쿼리 사용](postgresql/use-postgis-spatial-query.md)
 - [PostgreSQL client 설치](postgresql/install-postgresql-client.md)
 - [도커로 PostGIS 설치](postgresql/start-postgis-using-docker.md)
