@@ -43,6 +43,7 @@
 ### PostgreSQL
 - [CSV 데이터 테이블에 삽입](postgresql/import-csv.md)
 - [CSV로 테이블 데이터 내보내기](postgresql/export-csv.md)
+- [PostGIS에 shp2pgsql로 shp 업로드](postgresql/import-shp-using-shp2pgsql.md)
 - [PostGIS 공간쿼리 사용](postgresql/use-postgis-spatial-query.md)
 - [PostgreSQL client 설치](postgresql/install-postgresql-client.md)
 - [도커로 PostGIS 설치](postgresql/start-postgis-using-docker.md)
