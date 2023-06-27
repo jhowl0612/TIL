@@ -28,6 +28,7 @@
 
 ### Git
 - [원격 브랜치 보기](git/display-remote-branch.md)
+- [일부 파일 스테이징 취소](git/remove-remote-cache-file.md)
 
 ### Linux
 - [리눅스 서버 시간 확인](linux/display-server-date.md)
