@@ -37,6 +37,7 @@
 - [파일 권한 변경](linux/change-permission.md)
 - [파일 행 수 세기](linux/count-lines.md)
 - [포트 확인](linux/check-listening-ports.md)
+- [프로세스 ID 확인](linux/check-process-id.md)
 - [현재 사용자 패스워드 변경](linux/change-password.md)
 
 ### MongoDB
