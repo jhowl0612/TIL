@@ -27,6 +27,7 @@
 - [인덱스 매핑](elasticsearch/mapping-explicit.md)
 
 ### Git
+- [리포지토리 미러 복사](git/repository-mirroring.md)
 - [원격 브랜치 보기](git/display-remote-branch.md)
 - [일부 파일 스테이징 취소](git/remove-remote-cache-file.md)
 - [커밋 메시지 변경](git/amend-commit.md)
