@@ -19,6 +19,7 @@
 - [도커파일 빌드](docker/dockerfile-build.md)
 - [실행 중인 컨테이너 내부 접근](docker/execute-shell-on-running-container.md)
 - [이미지 태그 변경](docker/change-image-tag.md)
+- [컨테이너 정보 출력](display-information-on-container.md)
 - [특정 사용자 sudo 없이 docker 사용 설정](docker/add-docker-group.md)
 
 ### Elasticsearch
