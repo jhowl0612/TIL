@@ -49,6 +49,7 @@
 
 ### MongoDB
 - [검색](mongodb/find-documents.md)
+- [검색 결과 수 설정](mongodb/change-batch-size.md)
 - [도커로 몽고DB 시작하기](mongodb/start-mongodb-using-docker.md)
 - [유저 생성](mongodb/create-user.md)
 - [접속 DB 변경](mongodb/switch-database.md)
