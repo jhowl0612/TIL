@@ -10,6 +10,7 @@
 * [Linux](#linux)
 * [MongoDB](#mongodb)
 * [PostgreSQL](#postgresql)
+* [Python](#python)
 
 ---
 
@@ -69,3 +70,6 @@
 - [테이블 덤프](postgresql/dump-table.md)
 - [테이블 리스토어](postgresql/restore-table.md)
 - [특정 스키마 내 테이블 목록 출력](postgresql/list-tables-in-schema.md)
+
+### Python
+- [문자열 형태의 수식이나 코드 실행](python/execute-string.md)
