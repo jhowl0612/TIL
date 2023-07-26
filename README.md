@@ -73,3 +73,4 @@
 
 ### Python
 - [문자열 형태의 수식이나 코드 실행](python/execute-string.md)
+- [PostgreSQL DB 연결](python/connect-postgresql.md)
