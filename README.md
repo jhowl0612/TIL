@@ -72,5 +72,6 @@
 - [특정 스키마 내 테이블 목록 출력](postgresql/list-tables-in-schema.md)
 
 ### Python
-- [문자열 형태의 수식이나 코드 실행](python/execute-string.md)
+- [Elasticsearch 연결](python/connect-elasticsearch.md)
 - [PostgreSQL DB 연결](python/connect-postgresql.md)
+- [문자열 형태의 수식이나 코드 실행](python/execute-string.md)
