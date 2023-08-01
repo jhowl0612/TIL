@@ -73,5 +73,6 @@
 
 ### Python
 - [Elasticsearch 연결](python/connect-elasticsearch.md)
+- [Oracle DB 연결](python/connect-oracle.md)
 - [PostgreSQL DB 연결](python/connect-postgresql.md)
 - [문자열 형태의 수식이나 코드 실행](python/execute-string.md)
